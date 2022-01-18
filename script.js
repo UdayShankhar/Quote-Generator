@@ -1,6 +1,4 @@
 
-"use strict"
-
 function clock(){
 var today = new Date();
 var hr = today.getHours();
