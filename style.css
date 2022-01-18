@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&family=Staatliches&display=swap');
+
+#demo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'ABeeZee', sans-serif;
+    margin-top: 40px;
+    font-size: 45px;
+    color: rgb(7, 7, 7);
+}
+
+.container{
+    height: 30px;
+    width: 600px;
+    padding: 80px;
+    border: none;
+    margin-left: 399px;
+    margin-top: 200px;
+}
+
+#btn{
+    margin-left: 230px;
+    display: flex;
+    width: 98px;
+    height: 36px;
+    border-radius: 20px;
+    margin-top: -40px;    
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    align-items: center;
+}
+
+/* #btn{
+    box-shadow: 0px 10px 20px rgb(83, 78, 78);
+    color: rgb(46, 47, 59);
+    font-size: 10px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 240px;
+    margin-top: -199px;
+    padding: 10px;
+} */
+
+#out{
+    font-family: 'ABeeZee', sans-serif;
+    margin-top: 26px;
+}
+
+#time{
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 36px;
+    margin-left: 1320px;
+    margin-top: -70px;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
